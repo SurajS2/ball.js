@@ -1,1 +1,1 @@
-# ball.js
+# Box Class
